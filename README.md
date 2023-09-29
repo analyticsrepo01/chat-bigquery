@@ -12,7 +12,7 @@
 1. Run app.py to start the Streamlit application:
 
     ```bash
-    streamlit run Home.py
+    streamlit run app.py
     ```
 
 1. Open the Streamlit application in your web browser using the provided URL.
